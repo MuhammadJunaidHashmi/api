@@ -1,21 +1,21 @@
 {
   "version": 2,
-  "builds": [{ "src": "server.js", "use": "@now/node-server" }],
+  "builds": [{ "src": "index.js", "use": "@now/node-server" }],
   "routes": [
     {
       "src": "/",
-      "dest": "/server.js",
+      "dest": "/index.js",
       "methods": ["GET"]
     },
     {
-      "src": "/users",
-      "dest": "/server.js",
+      "src": "/api/service",
+      "dest": "/index.js",
       "methods": ["GET"]
     },
     {
-      "src": "/user",
-      "dest": "/server.js",
-      "methods": ["POST"]
+      "src": "/api/service/:id",
+      "dest": "/index.js",
+      "methods": ["GET"]
     }
   ]
 }
