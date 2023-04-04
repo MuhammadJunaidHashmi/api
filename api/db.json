@@ -1,7 +1,7 @@
 {
   "service": [
     {
-      "redirect": "https://www.fiverr.com/junaid7042/do-c-cpp-programming-project-code-assignment?context_referrer=user_page&ref_ctx_id=5053ff3bcd85f72a2bf433e453bc3e93&pckg_id=1&pos=1",
+      "redirect": "https://www.google.com/",
       "source": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/200966269/original/a57cd04049f06773be8698c833236512d889748c/do-c-cpp-programming-project-code-assignment.png",
       "title": "C & C++ PROGRAMMING",
       "updateDate": "1/2/2022, 7:53:33 PM",
@@ -11,7 +11,7 @@
       "id": 1
     },
     {
-      "redirect": "https://www.fiverr.com/junaid7042/design-mockup-for-mobile-or-web-ui-in-balsamiq-wireframe?context_referrer=user_page&ref_ctx_id=69ca2a04b546e20dcb27d6c916fd3fb6&pckg_id=1&pos=3",
+      "redirect": "https://www.google.com",
       "source": "https://fiverr-res.cloudinary.com/videos/so_1.284238,t_main1,q_auto,f_auto/esixdywky3drg9erawcp/design-mockup-for-mobile-or-web-ui-in-balsamiq-wireframe.png",
       "title": "WIREFRAME",
       "updateDate": "1/2/2022, 7:55:42 PM",
@@ -21,7 +21,7 @@
       "id": 2
     },
     {
-      "redirect": "https://www.fiverr.com/junaid7042/develop-gui-java-programming-project-and-desktop-application?context_referrer=user_page&ref_ctx_id=69ca2a04b546e20dcb27d6c916fd3fb6&pckg_id=1&pos=2",
+      "redirect": "https://www.google.com",
       "source": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/184124349/original/fa6e9fac133fd77b17243ee48682e2ac2954fd03/develop-gui-java-programming-project-and-desktop-application.jpg",
       "title": "JAVA DESKTOP APPLICATION",
       "updateDate": "1/2/2022, 7:58:19 PM",
@@ -31,7 +31,7 @@
       "id": 3
     },
     {
-      "redirect": "https://www.fiverr.com/junaid7042/do-user-test-on-your-website-or-app-and-give-video-feedback?context_referrer=user_page&ref_ctx_id=69ca2a04b546e20dcb27d6c916fd3fb6&pckg_id=1&pos=4",
+      "redirect": "https://www.google.com",
       "source": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/203366680/original/62503acc144a2b69959ee002bb70b5216cb1b312/do-user-test-on-your-website-or-app-and-give-video-feedback.png",
       "title": "WEB & MOBILE TESTING",
       "updateDate": "1/2/2022, 7:59:11 PM",
@@ -41,7 +41,7 @@
       "id": 4
     },
     {
-      "redirect": "https://www.fiverr.com/junaid7042/develop-mern-stack-custom-website-using-mongodb-express-react-node?context_referrer=user_page&ref_ctx_id=1ebc44f456db44c6d832776d40102f29&pckg_id=1&pos=5&seller_online=true&imp_id=8c08fb1b-68ee-4bef-ba00-763d146ac8ee",
+      "redirect": "https://www.google.com",
       "source": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/241332296/original/8db297d0d76408309bd840cef2b3ae1a87bfc928/develop-mern-stack-custom-website-using-mongodb-express-react-node.jpg",
       "title": "MERN STACK DEVELOPMENT",
       "updateDate": "1/3/2022, 8:30:11 PM",
@@ -51,7 +51,7 @@
       "id": 5
     },
     {
-      "redirect": "https://www.fiverr.com/junaid7042/do-c-cpp-programming-project-code-assignment?context_referrer=user_page&ref_ctx_id=5053ff3bcd85f72a2bf433e453bc3e93&pckg_id=1&pos=1",
+      "redirect": "https://www.google.com",
       "source": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/200966269/original/a57cd04049f06773be8698c833236512d889748c/do-c-cpp-programming-project-code-assignment.png",
       "title": "C & C++ PROGRAMMINGs",
       "updateDate": "21/01/2023, 6:44:21 pm",
@@ -67,16 +67,9 @@
       "username": "junaid600",
       "email": "hashmijunaid41@gmail.com",
       "phone": "03055778976",
-      "website": "fiverr.com",
+      "website": "google.com",
       "id": 1
     },
-    {
-      "name": "hhuiii",
-      "username": "khadijahashmi96022@gmail.com",
-      "email": "hashmijunaid41@gmail.com",
-      "phone": "03055778976",
-      "website": "h",
-      "id": 2
-    }
+  
   ]
 }
